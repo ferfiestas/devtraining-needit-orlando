@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Notes" section_id="319108d2079c10101821f7fc7c1ed0e9" sys_domain="global" table="x_58872_needit_needit" version="3" view="User2">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>fernanfi</sys_created_by>
+            <sys_created_on>2020-04-22 17:19:32</sys_created_on>
+            <sys_id>3fc1c8d2079c10101821f7fc7c1ed063</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_58872_needit_needit" sys_domain="global" view="759108d2079c10101821f7fc7c1ed0e4">319108d2079c10101821f7fc7c1ed0e9</sys_ui_section>
+            <sys_updated_by>fernanfi</sys_updated_by>
+            <sys_updated_on>2020-04-22 17:19:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Notes</caption>
+            <header>false</header>
+            <name>x_58872_needit_needit</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>fernanfi</sys_created_by>
+            <sys_created_on>2020-04-22 17:18:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>319108d2079c10101821f7fc7c1ed0e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Notes</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_319108d2079c10101821f7fc7c1ed0e9</sys_update_name>
+            <sys_updated_by>fernanfi</sys_updated_by>
+            <sys_updated_on>2020-04-22 17:18:35</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="User2" name="User2">759108d2079c10101821f7fc7c1ed0e4</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>6cd480dadb7e4010b847ac44d4961938</instance_id>
+        <instance_name>dev99846</instance_name>
+        <name>sys_ui_section_319108d2079c10101821f7fc7c1ed0e9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Notes" section_id="319108d2079c10101821f7fc7c1ed0e9" sys_domain="global" table="x_58872_needit_needit" version="3" view="User2"><sys_ui_element action="INSERT_OR_UPDATE"><element>comments</element><position>0</position><sys_created_by>fernanfi</sys_created_by><sys_created_on>2020-04-22 17:19:32</sys_created_on><sys_id>3fc1c8d2079c10101821f7fc7c1ed063</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Notes" display_value="Notes" name="x_58872_needit_needit" sys_domain="global" view="759108d2079c10101821f7fc7c1ed0e4">319108d2079c10101821f7fc7c1ed0e9</sys_ui_section><sys_updated_by>fernanfi</sys_updated_by><sys_updated_on>2020-04-22 17:19:32</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Notes</caption><header>false</header><name>x_58872_needit_needit</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>fernanfi</sys_created_by><sys_created_on>2020-04-22 17:18:35</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>319108d2079c10101821f7fc7c1ed0e9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Notes</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_section_319108d2079c10101821f7fc7c1ed0e9</sys_update_name><sys_updated_by>fernanfi</sys_updated_by><sys_updated_on>2020-04-22 17:18:35</sys_updated_on><sys_user/><title>false</title><view display_value="User2" name="User2">759108d2079c10101821f7fc7c1ed0e4</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1210842513</payload_hash>
+        <record_name>NeedIt</record_name>
+        <reverted_from/>
+        <source>e8f81f8a071c10101821f7fc7c1ed0c7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>fernanfi</sys_created_by>
+        <sys_created_on>2020-04-22 17:19:32</sys_created_on>
+        <sys_id>73c1c8d2079c10101821f7fc7c1ed065</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171a2e6e32b0000001</sys_recorded_at>
+        <sys_updated_by>fernanfi</sys_updated_by>
+        <sys_updated_on>2020-04-22 17:19:32</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>fbc1c8d2f99c10109153da32c9a5fb64</update_guid>
+        <update_guid_history>fbc1c8d2f99c10109153da32c9a5fb64:-1210842513,799148d2f19c101011bb115e55524c22:-301898258</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>fernanfi</sys_created_by>
+        <sys_created_on>2020-04-22 17:27:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>013dab83b062449e999b2d59d76bcd09</sys_id>
+        <sys_metadata>319108d2079c10101821f7fc7c1ed0e9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Notes</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIt">45007fcd0fa83200cd674f8ce1050ebc</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_319108d2079c10101821f7fc7c1ed0e9</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_319108d2079c10101821f7fc7c1ed0e9">73c1c8d2079c10101821f7fc7c1ed065</sys_update_version>
+        <sys_updated_by>fernanfi</sys_updated_by>
+        <sys_updated_on>2020-04-22 17:27:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
